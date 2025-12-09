@@ -1,0 +1,14 @@
+ {
+  "Kuru": {
+    "contracts": [
+      "0xb3e6778480b2E488385E8205eA05E20060B813cb"
+    ],
+    "category": "DEX"
+  },
+  "Neverland": {
+    "contracts": [
+      "0x80F00661b13CC5F6ccd3885bE7b4C9c67545D585"
+    ],
+    "category": "DEX"
+  }
+}
